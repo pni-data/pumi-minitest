@@ -1,1 +1,13 @@
-.git/annex/objects/gg/zZ/MD5E-s408--1ff0e0c62b2ef2eca88411287070eff7.json/MD5E-s408--1ff0e0c62b2ef2eca88411287070eff7.json
+{
+    "Name": "Low resolution data for automated testing of PUMI pipelines",
+    "License": "PDDL",
+    "Authors": [
+        "Tamas Spisak"
+    ],
+    "DatasetType": "raw",
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "ReferencesAndLinks": ["https://doi.org/10.1038/s41467-019-13785-z"],
+    "SourceDatasets": "https://doi.org/10.18112/openneuro.ds002608.v1.0.1",
+    "BIDSVersion": "1.7.0"
+}
